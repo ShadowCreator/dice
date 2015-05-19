@@ -4,6 +4,7 @@
 import argparse
 import random
 
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("dice_multiplier",
